@@ -15,6 +15,9 @@ public class HelloGit {
 
         System.out.println("再次上传");
         System.out.println("ssh模式上传提交");
+
+
+        System.out.println("测试提交");
     }
 }
 
